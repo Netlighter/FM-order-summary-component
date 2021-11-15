@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-based-on-flexbox-Wm0GkAtt-)
 - Live Site URL: [Vercel](https://order-summary-byc1019td-netlighter.vercel.app/)
 
 ## My process
